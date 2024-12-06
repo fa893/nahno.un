@@ -283,6 +283,24 @@
       أحمد محمود سالم السطري<br>
       لما نادر سليمان المشاقبة<br>
       حمزة أحمد عبدالحليم الحياري<br>
+      راما خلدون فياض الرماضنه<br>
+  </div>
+
+  <div class="dropdown" onclick="toggleNames('zarka_private')">جامعة الزرقاء الخاصة</div>
+  <div id="zarka_private" class="names">
+      أمين حمدان<br>
+      سيرين غسان يوسف شاهين<br>
+  </div>
+
+  <div class="dropdown" onclick="toggleNames('hashemite')">الجامعة الهاشمية</div>
+  <div id="hashemite" class="names">
+      أبرار عبدالحافظ خلف الرقاد<br>
+  </div>
+
+  <div class="dropdown" onclick="toggleNames('jordan')">الجامعة الأردنية</div>
+  <div id="jordan" class="names">
+      مجاهد هاني سليمان البيادرة<br>
+      ليان مراد سمان<br>
   </div>
 
   <div class="dropdown" onclick="toggleNames('tafila')">جامعة الطفيلة التقنية</div>
@@ -360,22 +378,4 @@
       سميحة أدهم تحسين تيمور<br>
   </div>
 
-  <div class="dropdown" onclick="toggleNames('hussein')">جامعة الحسين بن طلال</div>
-  <div id="hussein" class="names">
-      محمد حامد عطا الله الخطيب<br>
-  </div>
-
-  <div class="dropdown" onclick="toggleNames('jordan')">الجامعة الأردنية</div>
-  <div id="jordan" class="names">
-      مجاهد هاني سليمان البيادرة<br>
-  </div>
-
-  <div class="dropdown" onclick="toggleNames('german')">الجامعة الألمانية الأردنية</div>
-  <div id="german" class="names">
-      ليلى حريس عودة دبابنة<br>
-  </div>
-</section>
-
-</main>
-</body>
-</html>
+  <div class="dropdown" onclick="toggleNames('hussein')
