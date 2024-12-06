@@ -295,7 +295,7 @@
   <div class="dropdown" onclick="toggleNames('hashemite')">الجامعة الهاشمية</div>
   <div id="hashemite" class="names">
                       <br>ماريا محمد بنيان وريدات
-    أبرار عبدالحافظ خلف الرقاد<br>
+    أبرار عبدالحافظ خلف الرقاد<br/n>
   </div>
 
   <div class="dropdown" onclick="toggleNames('jordan')">الجامعة الأردنية</div>
