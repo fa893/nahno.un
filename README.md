@@ -288,7 +288,7 @@
 
   <div class="dropdown" onclick="toggleNames('zarka_private')">جامعة الزرقاء الخاصة</div>
   <div id="zarka_private" class="names">
-      أمين حمدان<br>
+      أمين حمدان<br>                           
       سيرين غسان يوسف شاهين<br>
   </div>
 
